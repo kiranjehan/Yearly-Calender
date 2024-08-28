@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(236, 152, 48);
+}
+.container{
+    
+    width:50%;
+    margin: auto !important;
+    margin-top:20% !important;
+    
+   
+    
+    
+}
+.card{
+    border-radius:20px!important;
+   
+}
+.card-header{
+    text-align: center;
+    color: rgb(231, 29, 14);
+    background-color: rgb(226, 218, 218);
+    border-radius: 20px!important;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+
+
